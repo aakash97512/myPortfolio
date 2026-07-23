@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 Aakash S — Senior Flutter Developer Portfolio Website
 
 A modern, high-performance, recruiter-focused portfolio website designed to showcase **Aakash S's** 3.5+ years of Flutter & Mobile Software Development experience. Built with React, Vite, and modern CSS with dark-mode glassmorphism aesthetics, interactive skill filters, project case study modals, Clean Architecture blueprints, and a 1-click printable PDF resume.
@@ -99,3 +100,7 @@ npm run deploy
 
 ## 📄 License & Attribution
 Designed for **Aakash S** to maximize recruiter shortlisting on Naukri, LinkedIn, and job applications.
+=======
+# myPortfolio
+My personal portfolio website featuring Flutter development projects, professional experience, technical skills, and achievements.
+>>>>>>> 14febad63ae4afa24a0775c3678d027b05eb7fd4
