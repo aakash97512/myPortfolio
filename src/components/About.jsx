@@ -8,7 +8,7 @@ export default function About() {
   const coreStrengths = [
     {
       title: 'Cross-Platform Mobile Engineering',
-      desc: '3.5+ years building native-grade Android & iOS applications using Flutter SDK and Dart with strict adherence to Material Design & Cupertino guidelines.',
+      desc: '4 years building native-grade Android & iOS applications using Flutter SDK and Dart with strict adherence to Material Design & Cupertino guidelines.',
       icon: Cpu,
       color: 'var(--accent-cyan)',
     },
@@ -52,7 +52,7 @@ export default function About() {
           <div style={{ display: 'grid', gridTemplateColumns: '1fr', gap: '1.5rem' }}>
             <div>
               <h3 style={{ fontSize: '1.4rem', marginBottom: '1rem', color: 'var(--accent-cyan)' }}>
-                Flutter Developer | 3.5+ Years Experience
+                Flutter Developer | 4 Years Experience
               </h3>
               <p style={{ color: 'var(--text-secondary)', lineHeight: '1.8', fontSize: '1.05rem', marginBottom: '1.25rem' }}>
                 {personal.summary}

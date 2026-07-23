@@ -87,7 +87,7 @@ export default function Hero({ openResumeModal }) {
               }}
             >
               Hi, I'm <strong style={{ color: 'var(--text-primary)' }}>{personal.name}</strong>, a Senior Flutter Developer with{' '}
-              <span style={{ color: 'var(--accent-cyan)', fontWeight: '700' }}>3.5+ years of experience</span> crafting scalable, production-ready mobile apps with Riverpod, BLoC, Clean Architecture, and BLE hardware connectivity.
+              <span style={{ color: 'var(--accent-cyan)', fontWeight: '700' }}>4 years of experience</span> crafting scalable, production-ready mobile apps with Riverpod, BLoC, Clean Architecture, and BLE hardware connectivity.
             </p>
 
             {/* Location & Languages Quick Bar */}

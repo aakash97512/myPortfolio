@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # 🚀 Aakash S — Senior Flutter Developer Portfolio Website
 
-A modern, high-performance, recruiter-focused portfolio website designed to showcase **Aakash S's** 3.5+ years of Flutter & Mobile Software Development experience. Built with React, Vite, and modern CSS with dark-mode glassmorphism aesthetics, interactive skill filters, project case study modals, Clean Architecture blueprints, and a 1-click printable PDF resume.
+A modern, high-performance, recruiter-focused portfolio website designed to showcase **Aakash S's** 4 years of Flutter & Mobile Software Development experience. Built with React, Vite, and modern CSS with dark-mode glassmorphism aesthetics, interactive skill filters, project case study modals, Clean Architecture blueprints, and a 1-click printable PDF resume.
 
 ---
 
@@ -9,12 +9,12 @@ A modern, high-performance, recruiter-focused portfolio website designed to show
 
 1. **Hero Section**
    - Live availability badge: *"Available for Immediate / Short Notice Join"*
-   - Fast Recruiter Impact Metrics (3.5+ Years Exp, 4+ Deployed Apps, 25% Load Speed Reduction, 60 FPS UI)
+   - Fast Recruiter Impact Metrics (4 Years Exp, 4+ Deployed Apps, 25% Load Speed Reduction, 60 FPS UI)
    - Dynamic 3D Flutter developer illustration
    - Direct CTA buttons: *"Explore Projects"*, *"Download Resume"*, *"Contact Me"*
 
 2. **About Me & Core Pillars**
-   - 3.5+ Years experience summary as Flutter Developer at **Medapps Dynamics Pvt Ltd**
+   - 4 Years experience summary as Flutter Developer at **Medapps Dynamics Pvt Ltd**
    - 4 Core Strengths: Cross-Platform Mobile Engineering, Architecture & State Management, IoT & BLE Hardware Integration, App Store Publishing & Performance
 
 3. **Technical Stack & Skills (Interactive Filterable Grid)**

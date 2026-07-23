@@ -2,7 +2,7 @@ export const portfolioData = {
   personal: {
     name: "Aakash S",
     title: "Senior Flutter & Mobile Developer",
-    experienceYears: "3.5+",
+    experienceYears: "4",
     email: "aakash97512@gmail.com",
     phone: "+91 8525964980",
     location: "Chennai, Tamil Nadu, India",
@@ -12,9 +12,9 @@ export const portfolioData = {
     languages: ["English (Professional)", "Tamil (Native)"],
     avatar: "./avatar.png",
     summary:
-      "Results-oriented Flutter Developer with 3.5+ years of hands-on experience building scalable, high-performance cross-platform mobile applications for Android and iOS. Expert in Riverpod, BLoC, Clean Architecture, RESTful APIs, Firebase ecosystems, and Bluetooth Low Energy (BLE) hardware integrations. Demonstrated track record of delivering 4+ production apps, optimizing application load speeds by 25%, and maintaining 60 FPS smooth animations in Agile environments.",
+      "Results-oriented Flutter Developer with 4 years of hands-on experience building scalable, high-performance cross-platform mobile applications for Android and iOS. Expert in Riverpod, BLoC, Clean Architecture, RESTful APIs, Firebase ecosystems, and Bluetooth Low Energy (BLE) hardware integrations. Demonstrated track record of delivering 4+ production apps, optimizing application load speeds by 25%, and maintaining 60 FPS smooth animations in Agile environments.",
     metrics: [
-      { label: "Years Experience", value: "3.5+", highlight: "Proven Mobile Track Record" },
+      { label: "Years Experience", value: "4", highlight: "Proven Mobile Track Record" },
       { label: "Production Apps Deployed", value: "4+", highlight: "Google Play & App Store" },
       { label: "Performance Optimization", value: "25%", highlight: "App Load Speed Reduction" },
       { label: "State Management", value: "100%", highlight: "Riverpod & BLoC Expert" },

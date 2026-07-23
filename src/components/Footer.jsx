@@ -53,7 +53,7 @@ export default function Footer() {
               </span>
             </div>
             <p style={{ fontSize: '0.9rem', color: 'var(--text-secondary)' }}>
-              Senior Flutter Developer • 3.5+ Years Exp • Chennai, India
+              Senior Flutter Developer • 4 Years Exp • Chennai, India
             </p>
           </div>
 

@@ -87,7 +87,7 @@ export default function ResumeModal({ onClose }) {
                 Flutter Developer
               </h2>
               <p style={{ fontSize: '0.9rem', color: 'var(--text-secondary)', marginTop: '0.3rem' }}>
-                3.5+ Years Experience • Cross-Platform iOS & Android Specialist
+               Years Experience • Cross-Platform iOS & Android Specialist
               </p>
             </div>
 
